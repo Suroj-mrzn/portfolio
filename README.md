@@ -6,7 +6,7 @@ A clean, minimalist personal portfolio website built to showcase my journey, pro
 
 ## 🛠️ Built With
 - HTML5
-- CSS3 (Dark Theme)
+- CSS3 
 - JavaScipt (in future)
 
 ## 🚧 Current Status
